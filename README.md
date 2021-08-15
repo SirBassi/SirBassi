@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SirBassi
+- 👀 I’m a normal one...
+- 🌱 I’m new in programming and currently learning everything ;-)
